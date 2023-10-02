@@ -1,0 +1,4 @@
+login
+/admin
+/{domain_FULL}.sql
+phpmyadmin
